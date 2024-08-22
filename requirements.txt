@@ -1,0 +1,6 @@
+chromadb
+chainlit
+langchain
+pdfplumber
+pysqlite3
+langchain_community
